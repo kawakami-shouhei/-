@@ -1,0 +1,10 @@
+{
+  "item": "キャベツ(大田市場・相対・中値, 10kgあたり)",
+  "base_week": "2026-07-06",
+  "latest_price_yen": 756,
+  "predicted_next_week_yen": 810,
+  "model_mae_yen": 93,
+  "baseline_mae_yen": 152,
+  "top_feature": "price_lag1",
+  "generated_at": "2026-11-22 22:23 JST"
+}

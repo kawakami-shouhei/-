@@ -1,0 +1,2 @@
+run_date,base_week,latest_price_yen,predicted_next_week_yen,model_mae_yen,baseline_mae_yen
+2026-11-22,2026-07-06,756,810,93,152
